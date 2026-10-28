@@ -34,7 +34,6 @@ I sometimes participate in **Kaggle competitions** and have received **ratings**
 
 - **[AI-Full-Models-From-Scratch](https://github.com/alireza793/AI-Full-Models-From-Scratch)**: Neural networks from scratch
 - **[ML-and-NNs-algorithms-from-scratch-](https://github.com/alireza793/ML-and-NNs-algorithms-from-scratch-)**: Classic ML and NN algorithms
-- **[skin_cancer](https://github.com/alireza793/skin_cancer)**: Skin cancer detection with Deep Learning
 
 ---
 
